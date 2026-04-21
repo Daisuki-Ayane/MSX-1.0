@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "9678d87f-30ad-332a-b12e-59e1135794c1",
+    "name": "DaisukiNiiNii",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c43065ad-6fa4-3b8d-90bd-98fdab94b2af",
+    "name": "Mario",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d0c71308-04aa-30e7-8132-1688b9ea5760",
+    "name": "daisuniniinii",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
